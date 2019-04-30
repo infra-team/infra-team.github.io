@@ -1,2 +1,3 @@
-# infra-team.github.io
+# INFRA Team
+
 Landing page for INFRA Team
